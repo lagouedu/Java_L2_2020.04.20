@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6c823fa7-1c43-427b-b57c-3b50c21f1f88" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\repository" />
+        <option name="mavenHome" value="D:/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZEarsSoasAp6EEMRGYOtL7tMzE" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lagou.bean" />
+      <recent name="com.lagou" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\IdeaProjects\demo-base\service-consumer\src\main\resources" />
+      <recent name="C:\Users\Administrator\IdeaProjects\demo-base\service-provider\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AnnotationConsumerMain">
+    <configuration name="AnnotationConsumerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lagou.AnnotationConsumerMain" />
+      <module name="service-consumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lagou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DubboPureMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lagou.DubboPureMain" />
+      <module name="service-provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lagou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AnnotationConsumerMain" />
+        <item itemvalue="Application.DubboPureMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c823fa7-1c43-427b-b57c-3b50c21f1f88" name="Default Changelist" comment="" />
+      <created>1584406908482</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584406908482</updated>
+      <workItem from="1584406915330" duration="6121000" />
+      <workItem from="1584416043628" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="92" key="#com.intellij.ide.util.MemberChooser" timestamp="1584408553615">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="488" y="92" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1584408553615" />
+    <state x="463" y="109" key="FileChooserDialogImpl" timestamp="1584411135830">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="109" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1584411135830" />
+    <state width="1322" height="245" key="GridCell.Tab.0.bottom" timestamp="1584416019749">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="245" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1584416019749" />
+    <state width="1322" height="245" key="GridCell.Tab.0.center" timestamp="1584416019748">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="245" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1584416019748" />
+    <state width="1322" height="245" key="GridCell.Tab.0.left" timestamp="1584416019748">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="245" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1584416019748" />
+    <state width="1322" height="245" key="GridCell.Tab.0.right" timestamp="1584416019749">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="245" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1584416019749" />
+    <state x="363" y="206" key="com.intellij.ide.util.TipDialog" timestamp="1584416043962">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="363" y="206" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1584416043962" />
+    <state x="53" y="77" key="new project wizard" timestamp="1584407174526">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="53" y="77" key="new project wizard/0.0.1366.768@0.0.1366.768" timestamp="1584407174526" />
+  </component>
+</project>

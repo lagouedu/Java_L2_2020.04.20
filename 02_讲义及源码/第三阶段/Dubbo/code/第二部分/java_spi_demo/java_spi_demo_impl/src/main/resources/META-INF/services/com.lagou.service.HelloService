@@ -1,0 +1,2 @@
+com.lagou.service.impl.DogHelloService
+com.lagou.service.impl.HumanHelloService

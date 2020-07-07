@@ -1,2 +1,0 @@
-human=com.lagou.service.impl.HumanHelloService
-dog=com.lagou.service.impl.DogHelloService

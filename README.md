@@ -29,7 +29,7 @@
 | MySQL基础        | https://blog.csdn.net/Steriles_/article/details/82453949 https://www.cnblogs.com/liuguangbiao/p/9259889.html(https://blog.csdn.net/Steriles_/article/details/82453949) | 第四阶段  大型分布式存储系统架构进阶         | 1、下载安装 2、MySQL的常见命令 3、MySQL的语法规范 4、CRUD操作，三表联查 |
 | FastDFS基础      | https://blog.csdn.net/weixin_37659242/article/details/81166901 | 第四阶段  大型分布式存储系统架构进阶         | 1、下载安装 2、FastDFS上传下载流程 3、demo实现将本地图片上传至图片服务器，并在控制台打印url |
 | Redis基础        | https://www.runoob.com/redis/redis-tutorial.html             | 第五阶段  大型分布式系统缓存架构进阶         | 1、下载安装 2、数据类型及优缺点 3、常见命令 4、持久化方式及优缺点 5、Jedis实现存取数据 |
-| 任意MQ基础       | https://blog.csdn.net/CharJay_Lin/article/details/83051421                                                          | 第六阶段  分布式消息服务中间件进阶           | 1、下载安装 2、理解消息中间件 3、基于Spring的使用 4、demo实现生产和消费 |
+| 任意MQ基础       | https://blog.csdn.net/CharJay_Lin/article/details/83051421   | 第六阶段  分布式消息服务中间件进阶           | 1、下载安装 2、理解消息中间件 3、基于Spring的使用 4、demo实现生产和消费 |
 | Lucene基础       | https://blog.csdn.net/weixin_42633131/article/details/82873731 | 第七阶段 分布式搜索引擎进阶                  | 1、下载安装 2、理解创建索引的流程 3、理解Document、Field、Directory、分词器 |
 | Solr基础或Es基础 | https://my.oschina.net/u/3053883/blog/1846045 https://www.cnblogs.com/sunsky303/p/9438737.html](https://my.oschina.net/u/3053883/blog/1846045) | 第七阶段 分布式搜索引擎进阶                  | 1、下载安装配置 2、通过客户端API实现数据CRUD                 |
 | Flink基础        | https://blog.csdn.net/u010862794/article/details/90025104    | 第八阶段  分布式实时流式计算引擎Flink        | 1、下载安装配置 2、Flink 中的核心概念理解 3、基础组件了解    |
@@ -39,4 +39,7 @@
 | Linux基础        | https://www.jianshu.com/p/13bbd724fc21                       | 第十阶段  底层调优与算法深入                 | 1、下载安装配置 2、基础常用命令                              |
 | 多线程基础       | https://www.cnblogs.com/wxd0108/p/5479442.html               | 第十阶段  底层调优与算法深入                 | 1、创建方式及优缺点 2、多线程的状态及互相转换的方法          |
 | 电商站点业务     |                                                              | 第十一阶段  大型互联网项目实战和业务解决方案 | 1、理解电商业务流程                                          |
-| Vue基础          | https://www.runoob.com/vue2/vue-tutorial.html                |                                              | 1、MVVM模式理解  2、常用系统指令 3、axios ajax操作 4、可以看懂别人的html |
+| Vue基础          | https://www.runoob.com/vue2/vue-tutorial.html                |                                              | 1、MVVM模式理解  2、常用系统指令 3、axios ajax操作   4、可以看懂别人的html |
+
+
+
